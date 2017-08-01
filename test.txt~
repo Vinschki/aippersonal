@@ -3,3 +3,12 @@ a story was written
 it was written badly
 
 tacos
+<<<<<<< HEAD
+
+hello world
+=======
+sadsad/
+
+This won't work
+Jake is the worst
+>>>>>>> 3d7affb0f16c422a86342c1eb8af42afdcc5ecd6
